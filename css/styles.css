@@ -1,0 +1,23 @@
+body { 
+    background-color:  #9ED5C5;
+}
+hr {
+   
+    border: none;
+    border-top: 5px dotted #DEF5E5;
+    
+    width: 0%;
+    
+}
+
+h1{
+    color: brown;
+}
+
+#edu {
+    color: blue;
+}
+
+#int {
+    color: blue;
+}
